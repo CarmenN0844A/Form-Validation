@@ -1,15 +1,13 @@
-# 🧾 Form Validation
+# 📝 Basic Form Validation
 
-A lightweight and flexible JavaScript-based form validation library to handle client-side input validation for web forms. This project ensures clean user input, reduces errors, and improves UX by providing real-time validation feedback.
+A simple web-based project to understand and implement form validation using **HTML**, **CSS**, and **JavaScript**. This project is created to strengthen core web development fundamentals.
 
-## 🚀 Features
+## 🚀 Overview
 
-- ✅ Real-time form validation
-- ✏️ Custom validation rules
-- 🔔 Instant error messages
-- 📦 Lightweight and dependency-free
-- 🔒 Secure and sanitized input handling
-- 🌐 Easily integrable into any frontend stack (HTML, JS, React, etc.)
+This project includes:
+- A sample HTML form with inputs like name, email, password, etc.
+- Styling with basic CSS for better user experience
+- JavaScript for validating form fields before submission
 
-## 📁 Project Structure
+## 📂 Project Structure
 
