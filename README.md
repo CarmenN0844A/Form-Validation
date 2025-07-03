@@ -33,10 +33,6 @@ This project includes:
 - Learn JavaScript DOM manipulation and event handling
 - Understand basic input validation logic
 
-## 📸 Screenshot
-
-*(Add a screenshot of your form here if you like)*
-
 ## 📄 License
 
 This project is for learning purposes. Free to use or modify.
